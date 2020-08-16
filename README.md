@@ -5,6 +5,6 @@ Made with React Hooks.
 ## Budget Calculation Form.
 
 ## Features:
-* Validation of the data
+* Data validation
 * Error Messages
 * SweetAlert integration
